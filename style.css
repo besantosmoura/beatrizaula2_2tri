@@ -1,0 +1,67 @@
+body {background-color: aquamarine;
+}
+
+@media only screen and (max-width: 900px) {
+    body { 
+      background-color: rgb(0, 21, 27);
+    } }
+@media only screen and (max-width: 700px) {
+        body {
+          background-color: rgb(122, 226, 255);
+        } }
+@media only screen and (max-width: 699px) {
+        body { 
+          background-color: rgb(187, 17, 136);
+        } }    
+
+.p1 {font-size: 200%;
+text-align: center;
+background-color: blueviolet;
+border-color: red;
+border-width: 6px;
+border-style: double;
+margin-left: 15%;
+margin-right: 10%;
+padding-left: 10%;
+padding-top: 2%;
+}
+
+.p2  {font-size: 200%;
+    text-align: center;
+    background-color: rgb(52, 0, 100);
+    border-color: rgb(40, 202, 48);
+    border-width: 6px;
+    border-style: double;
+    margin-left: 15%;
+    margin-right: 10%;
+    margin-top: 5%;
+    padding-left: 2%;
+    padding-top: 2%;
+    }
+    
+    .p3  {font-size: 200%;
+        text-align: center;
+        background-color: rgb(233, 8, 83);
+        border-color: rgb(28, 132, 218);
+        border-width: 6px;
+        border-style: double;
+        margin-left: 15%;
+        margin-right: 10%;
+        margin-top: 5%;
+        padding-left: 2%;
+        padding-top: 2%;
+        }
+        
+        .p4  {font-size: 200%;
+            text-align: center;
+            background-color: rgb(92, 209, 160);
+            border-color: rgb(228, 135, 29);
+            border-width: 6px;
+            border-style: double;
+            margin-left: 15%;
+            margin-right: 10%;
+            margin-top: 5%;
+            padding-left: 2%;
+            padding-top: 2%;
+            }
+                    
